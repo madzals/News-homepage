@@ -12,3 +12,9 @@ header {
   display: flex;
   gap: 3.8rem;
 }
+
+.header-link:link,
+.header-link:visited {
+  text-decoration: none;
+  color: var(--dark-grayish-blue);
+}
